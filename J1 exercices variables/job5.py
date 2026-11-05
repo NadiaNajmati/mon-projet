@@ -1,0 +1,2 @@
+alphabet = "fedcba"
+print (alphabet)

@@ -1,0 +1,2 @@
+alphabet = "abcdef"
+print (alphabet)
