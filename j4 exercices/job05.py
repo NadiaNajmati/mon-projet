@@ -1,3 +1,6 @@
 def any_computation (num1,operator,num2):
-    return (9*4)
-print (any_computation())
+    if operator == "+":
+        return (num1+num2)
+    elif operator == "*":
+        return (num1 * num2)
+print (any_computation(9, "+", 2))
